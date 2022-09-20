@@ -1,8 +1,8 @@
-## Technical-Discussion
+# Technical-Discussion
 This is a demo repo for sharing ideas around communication
 
 
-# Still to come
+## Still to come
 
 * 1
 * 2
